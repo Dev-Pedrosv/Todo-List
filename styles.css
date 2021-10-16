@@ -138,4 +138,11 @@ h1 {
         margin-left: 2%;
         width: 33%;
     }
+
+    .botao-delete {
+        opacity: 1;
+    }
+    .botao-foguete {
+        opacity: 1;
+    }
 }
